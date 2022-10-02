@@ -17,7 +17,7 @@
 
 <div class="flex h-screen w-full">
 	<div
-		class="bg-hero flex-1 bg-[url('/background.jpeg')] bg-cover bg-center bg-no-repeat"
+		class="bg-hero flex-1 bg-[url('https://media.timeout.com/images/101456795/1372/772/image.jpg')] bg-cover bg-center bg-no-repeat"
 	>
 		<div class="container mx-auto px-4">
 			<div class="flex h-screen items-center justify-center">
@@ -28,7 +28,7 @@
 						<div class="flex items-center">
 							<img
 								class="h-11 w-11 rounded-full"
-								src="/yeezy-head.png"
+								src="https://pbs.twimg.com/profile_images/1276461929934942210/cqNhNk6v_400x400.jpg"
 								alt="blue globe which looks like clear sky"
 							/>
 							<div class="ml-1.5 text-sm leading-tight">
